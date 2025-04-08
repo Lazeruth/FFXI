@@ -6,7 +6,6 @@ This repository contains a collection of custom modules for FFXI private servers
 
 * **Diverse Modules:** Explore a range of modules that add new NPCs, items, quests, and gameplay mechanics.
 * **Organized Structure:** Each module is contained in its own directory, making it easy to manage and integrate into your server.
-* **Clear Documentation:**  Modules include comments and explanations to help you understand their functionality and implementation.
 * **Easy to Use:**  Most modules can be simply dropped into your server's `modules` directory and loaded.
 
 ## Current Modules
